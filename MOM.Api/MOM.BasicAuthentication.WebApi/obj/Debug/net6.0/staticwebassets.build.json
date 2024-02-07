@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZMGRV3c/NKCSZuxy5Gwq3uu9PKTPdsHmfN6B3H6tv0I=",
+  "Source": "MOM.BasicAuthentication.WebApi",
+  "BasePath": "_content/MOM.BasicAuthentication.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

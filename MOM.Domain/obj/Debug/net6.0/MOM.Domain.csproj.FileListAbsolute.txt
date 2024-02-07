@@ -1,0 +1,14 @@
+D:\DotNet\MOM Web Service\MOM.Domain\bin\Debug\net6.0\MOM.Domain.deps.json
+D:\DotNet\MOM Web Service\MOM.Domain\bin\Debug\net6.0\MOM.Domain.runtimeconfig.json
+D:\DotNet\MOM Web Service\MOM.Domain\bin\Debug\net6.0\MOM.Domain.dll
+D:\DotNet\MOM Web Service\MOM.Domain\bin\Debug\net6.0\ref\MOM.Domain.dll
+D:\DotNet\MOM Web Service\MOM.Domain\bin\Debug\net6.0\MOM.Domain.pdb
+D:\DotNet\MOM Web Service\MOM.Domain\obj\Debug\net6.0\MOM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\MOM Web Service\MOM.Domain\obj\Debug\net6.0\MOM.Domain.AssemblyInfoInputs.cache
+D:\DotNet\MOM Web Service\MOM.Domain\obj\Debug\net6.0\MOM.Domain.AssemblyInfo.cs
+D:\DotNet\MOM Web Service\MOM.Domain\obj\Debug\net6.0\MOM.Domain.csproj.CoreCompileInputs.cache
+D:\DotNet\MOM Web Service\MOM.Domain\obj\Debug\net6.0\MOM.Domain.dll
+D:\DotNet\MOM Web Service\MOM.Domain\obj\Debug\net6.0\ref\MOM.Domain.dll
+D:\DotNet\MOM Web Service\MOM.Domain\obj\Debug\net6.0\MOM.Domain.pdb
+D:\DotNet\MOM Web Service\MOM.Domain\obj\Debug\net6.0\MOM.Domain.genruntimeconfig.cache
+D:\DotNet\MOM Web Service\MOM.Domain\obj\Debug\net6.0\MOM.Domain.csproj.AssemblyReference.cache

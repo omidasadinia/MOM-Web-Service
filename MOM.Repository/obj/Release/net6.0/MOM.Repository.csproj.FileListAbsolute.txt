@@ -1,0 +1,15 @@
+D:\DotNet\MOM Web Service\MOM.Repository\bin\Release\net6.0\MOM.Repository.deps.json
+D:\DotNet\MOM Web Service\MOM.Repository\bin\Release\net6.0\MOM.Repository.dll
+D:\DotNet\MOM Web Service\MOM.Repository\bin\Release\net6.0\ref\MOM.Repository.dll
+D:\DotNet\MOM Web Service\MOM.Repository\bin\Release\net6.0\MOM.Repository.pdb
+D:\DotNet\MOM Web Service\MOM.Repository\bin\Release\net6.0\MOM.Domain.dll
+D:\DotNet\MOM Web Service\MOM.Repository\bin\Release\net6.0\MOM.Domain.pdb
+D:\DotNet\MOM Web Service\MOM.Repository\obj\Release\net6.0\MOM.Repository.csproj.AssemblyReference.cache
+D:\DotNet\MOM Web Service\MOM.Repository\obj\Release\net6.0\MOM.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\MOM Web Service\MOM.Repository\obj\Release\net6.0\MOM.Repository.AssemblyInfoInputs.cache
+D:\DotNet\MOM Web Service\MOM.Repository\obj\Release\net6.0\MOM.Repository.AssemblyInfo.cs
+D:\DotNet\MOM Web Service\MOM.Repository\obj\Release\net6.0\MOM.Repository.csproj.CoreCompileInputs.cache
+D:\DotNet\MOM Web Service\MOM.Repository\obj\Release\net6.0\MOM.Repository.csproj.CopyComplete
+D:\DotNet\MOM Web Service\MOM.Repository\obj\Release\net6.0\MOM.Repository.dll
+D:\DotNet\MOM Web Service\MOM.Repository\obj\Release\net6.0\ref\MOM.Repository.dll
+D:\DotNet\MOM Web Service\MOM.Repository\obj\Release\net6.0\MOM.Repository.pdb

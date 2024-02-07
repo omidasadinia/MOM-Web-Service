@@ -1,0 +1,17 @@
+D:\DotNet\MOM Web Service\MOM.Business\bin\Release\net6.0\MOM.Business.deps.json
+D:\DotNet\MOM Web Service\MOM.Business\bin\Release\net6.0\MOM.Business.dll
+D:\DotNet\MOM Web Service\MOM.Business\bin\Release\net6.0\ref\MOM.Business.dll
+D:\DotNet\MOM Web Service\MOM.Business\bin\Release\net6.0\MOM.Business.pdb
+D:\DotNet\MOM Web Service\MOM.Business\bin\Release\net6.0\MOM.Domain.dll
+D:\DotNet\MOM Web Service\MOM.Business\bin\Release\net6.0\MOM.Repository.dll
+D:\DotNet\MOM Web Service\MOM.Business\bin\Release\net6.0\MOM.Domain.pdb
+D:\DotNet\MOM Web Service\MOM.Business\bin\Release\net6.0\MOM.Repository.pdb
+D:\DotNet\MOM Web Service\MOM.Business\obj\Release\net6.0\MOM.Business.csproj.AssemblyReference.cache
+D:\DotNet\MOM Web Service\MOM.Business\obj\Release\net6.0\MOM.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\MOM Web Service\MOM.Business\obj\Release\net6.0\MOM.Business.AssemblyInfoInputs.cache
+D:\DotNet\MOM Web Service\MOM.Business\obj\Release\net6.0\MOM.Business.AssemblyInfo.cs
+D:\DotNet\MOM Web Service\MOM.Business\obj\Release\net6.0\MOM.Business.csproj.CoreCompileInputs.cache
+D:\DotNet\MOM Web Service\MOM.Business\obj\Release\net6.0\MOM.Business.csproj.CopyComplete
+D:\DotNet\MOM Web Service\MOM.Business\obj\Release\net6.0\MOM.Business.dll
+D:\DotNet\MOM Web Service\MOM.Business\obj\Release\net6.0\ref\MOM.Business.dll
+D:\DotNet\MOM Web Service\MOM.Business\obj\Release\net6.0\MOM.Business.pdb

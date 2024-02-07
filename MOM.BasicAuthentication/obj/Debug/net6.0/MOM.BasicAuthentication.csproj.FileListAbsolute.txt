@@ -1,0 +1,12 @@
+D:\DotNet\MOM Web Service\MOM.BasicAuthentication\obj\Debug\net6.0\MOM.BasicAuthentication.csproj.AssemblyReference.cache
+D:\DotNet\MOM Web Service\MOM.BasicAuthentication\obj\Debug\net6.0\MOM.BasicAuthentication.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\MOM Web Service\MOM.BasicAuthentication\obj\Debug\net6.0\MOM.BasicAuthentication.AssemblyInfoInputs.cache
+D:\DotNet\MOM Web Service\MOM.BasicAuthentication\obj\Debug\net6.0\MOM.BasicAuthentication.AssemblyInfo.cs
+D:\DotNet\MOM Web Service\MOM.BasicAuthentication\obj\Debug\net6.0\MOM.BasicAuthentication.csproj.CoreCompileInputs.cache
+D:\DotNet\MOM Web Service\MOM.BasicAuthentication\bin\Debug\net6.0\MOM.BasicAuthentication.deps.json
+D:\DotNet\MOM Web Service\MOM.BasicAuthentication\bin\Debug\net6.0\MOM.BasicAuthentication.dll
+D:\DotNet\MOM Web Service\MOM.BasicAuthentication\bin\Debug\net6.0\ref\MOM.BasicAuthentication.dll
+D:\DotNet\MOM Web Service\MOM.BasicAuthentication\bin\Debug\net6.0\MOM.BasicAuthentication.pdb
+D:\DotNet\MOM Web Service\MOM.BasicAuthentication\obj\Debug\net6.0\MOM.BasicAuthentication.dll
+D:\DotNet\MOM Web Service\MOM.BasicAuthentication\obj\Debug\net6.0\ref\MOM.BasicAuthentication.dll
+D:\DotNet\MOM Web Service\MOM.BasicAuthentication\obj\Debug\net6.0\MOM.BasicAuthentication.pdb
